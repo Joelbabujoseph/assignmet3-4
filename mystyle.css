@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 189, 127);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+    background-color: rgb(240, 255, 241);
+    display: block;
+}
+
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    padding-left: 0px;
+}
+section{
+    text-align: end;
+}
+
+
+
+
+
+
+
